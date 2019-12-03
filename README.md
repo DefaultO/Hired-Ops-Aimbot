@@ -24,7 +24,7 @@ using UnityEngine;
 using Assets.Scripts.Engine.Network;
 using Assets.Scripts.Game;
 ```
-In order to use those you will need to reference the Games Files:
+In order to use those you will need to reference these Game Files:
 * **Assembly-CSharp.dll** - Can be found at : ``...\steamapps\common\Hired Ops\hops_Data\Managed\Assembly-CSharp.dll``
 * **UnityEngine.dll** - Can be found at : ``...\steamapps\common\Hired Ops\hops_Data\Managed\UnityEngine.dll``
 
