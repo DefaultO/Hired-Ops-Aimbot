@@ -15,7 +15,7 @@ A small Base made in C# that includes an Aimbot and manipulates some game values
 ### Prerequisites
 To use this you will need a Tool that lets you inject Assemblies into some Mono embedded environment. I recommend you [SharpMonoInjector](https://github.com/warbler/SharpMonoInjector).
 
-You also need some IDE to edit it in and if needed updating it. I recommend you the [Visual Studio IDE](https://visualstudio.microsoft.com/en/vs/).
+You also need some IDE to edit it in and if needed updating it. I recommend you the [Visual Studio IDE](https://visualstudio.microsoft.com/de/vs/).
 
 ### Build
 To be able to Compile it you will need to declare some references from the Game **Hired Ops**.
