@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.161
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hired-Ops-Aimbot", "Hired-Ops-Aimbot.csproj", "{5356D94D-6C53-4FBE-B7C0-32A0B141521F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5356D94D-6C53-4FBE-B7C0-32A0B141521F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5356D94D-6C53-4FBE-B7C0-32A0B141521F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5356D94D-6C53-4FBE-B7C0-32A0B141521F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5356D94D-6C53-4FBE-B7C0-32A0B141521F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {925995E7-A9A5-4768-AB46-FC9DC8245F78}
+	EndGlobalSection
+EndGlobal
