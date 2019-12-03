@@ -1,7 +1,7 @@
 # Hired-Ops-Aimbot
-### **Game** : Hired Ops ([Open Steam Page]())
+### **Game** : Hired Ops ([Open Steam Page](https://store.steampowered.com/app/374280))
 
-A small Base made in C# that includes an Aimbot and manipulates some game values so the Enemy gets highlighted. Can be used by beginners for cheating in Unity3D games. As long a feature doesn't fly right into my hands I won't add more things to this simple base. Feel free to fork it.
+A small Base made in C# that includes an Aimbot and manipulates some game values so the Enemy gets highlighted. Can be used by beginners for cheating in Unity3D games. I did quit from this shitty game. As long a feature doesn't fly right into my hands I won't add more things to this simple base. Feel free to fork it.
 
 ### Features:
 * **Aimbot** (Current Key: V)
