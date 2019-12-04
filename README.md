@@ -9,6 +9,10 @@ A small Base made in C# that includes an Aimbot and manipulates some game values
 
 *Enemy Highlight doesn't work in the Game Mode "Deathmatch". They use another Highlight Method for it. Since it was obfuscated I didn't play a lot around with and ignored it.*
 
+## Screenshots
+![](https://i.imgur.com/0mCPjm9.png?raw=true)
+![](https://i.imgur.com/I8dR5kx.png?raw=true)
+
 
 ## Getting Started
 
